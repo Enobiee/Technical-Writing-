@@ -12,11 +12,10 @@ Here’s a quick comparison:
 Email address: enobiee@gmail.com instead of a complicated IP address like 172.217.14.109
 
 ENS domain: enobiee.eth instead of a long wallet address like 0x1234abcd...
-
 <br></br>
-**What You’ll Need to Get Started**
+## What You’ll Need to Get Started
 
-Must-Haves:
+**Must-Haves:**
 
 A web browser (Chrome, Firefox, Safari, or Edge)
 
@@ -30,9 +29,8 @@ No Need For:
 Technical expertise or crypto experience (I’ll guide you through!)
 
 Fancy or expensive hardware
-
-
-Step 1: Set Up Your Crypto Wallet
+<br></br>
+### Step 1: Set Up Your Crypto Wallet
 
 MetaMask Is the Easiest Way to Start
 
@@ -63,9 +61,8 @@ Buy ETH on an exchange like Coinbase or Binance, then transfer it to your MetaMa
 
 
 Aim to have enough ETH to cover domain costs plus transaction (gas) fees — usually a bit extra as a buffer.
-
-
-Step 2: Head to the ENS App
+<br></br>
+### Step 2: Head to the ENS App
 
 1. Visit app.ens.domains (the official ENS platform).
 
@@ -75,14 +72,9 @@ Step 2: Head to the ENS App
 
 3. Approve the connection when MetaMask pops up.
 
-
-
 You’ll see your wallet address at the top right — you’re connected!
-
-
----
-
-Step 3: Find Your Perfect Domain
+<br></br>
+### Step 3: Find Your Perfect Domain
 
 Think about what you want—your name, your brand, or a nickname.
 
@@ -96,8 +88,6 @@ Shorter names cost more:
 
 5 or more: around $5/year
 
-
-
 Tips:
 
 Longer names save money.
@@ -106,27 +96,19 @@ Pick something easy to spell and remember.
 
 Check if the same .com exists if you want to keep branding consistent.
 
-
 Type your desired name into the search box — green means available, red means taken. If your choice isn’t free, try a different version!
-
-
----
-
-Step 4: Register Your Domain
+<br></br>
+### Step 4: Register Your Domain
 
 When you’ve found your name:
 
 1. Select how many years you want to register (1 to 10).
 
-
 2. Review the total price (registration + gas fees).
-
 
 3. Click “Request to Register.”
 
-
-
-ENS registration happens in two steps to keep your domain safe:
+**ENS registration happens in two steps to keep your domain safe:**
 
 Step 1: Commit — a hidden request to prevent front-running (pay gas fees here).
 
@@ -134,23 +116,16 @@ Step 2: Reveal — show the domain you want and pay registration + gas fees.
 
 
 Follow the prompts and confirm transactions in MetaMask. After a few minutes, the domain is yours!
-
-
----
-
-Step 5: Set Up Your Domain
+<br></br>
+### Step 5: Set Up Your Domain
 
 Link It to Your Wallet
 
 1. Go to your domain management page.
 
-
 2. Under “Records,” set the ETH address to your wallet.
 
-
 3. Save and confirm.
-
-
 
 Add Profile Info (Optional but Cool!)
 
@@ -162,7 +137,6 @@ Bio or description
 
 Twitter, GitHub, email, website links
 
-
 Just add or edit records and confirm changes.
 
 Set Reverse Resolution
@@ -172,25 +146,18 @@ This step makes apps show your ENS name instead of the long wallet address.
 Go to the “More” tab in your domain settings.
 
 Click “Set Primary ENS Name” and confirm.
-
-
-
----
-
-Step 6: Try It Out!
+<br></br>
+### Step 6: Try It Out!
 
 Send a small amount of ETH to your new ENS domain (like yourname.eth) instead of your wallet address and see it arrive.
 
 Check your ENS name on sites like etherscan.io to track transactions.
 
 Share your new Web3 identity confidently!
+<br></br>
+**Watch Out For These Common Mistakes**
 
-
----
-
-Watch Out For These Common Mistakes
-
-Don’t rush your domain choice — you’re paying for multiple years!
+Don’t rush your domain choice, you’re paying for multiple years!
 
 Gas fees can be high—try to register when the network isn’t busy.
 
@@ -201,11 +168,7 @@ Always set reverse resolution so your ENS name shows properly.
 Keep your recovery phrase safe.
 
 Remember to renew your domain before it expires.
-
-
-
----
-
+<br></br>
 Troubleshooting Quick Fixes
 
 Transaction failed? Try again with higher gas fees or wait for a less busy time.
@@ -215,12 +178,8 @@ Domain shows as taken but available? Someone may have just grabbed it—try alte
 ENS name not showing in apps? Set reverse resolution in your settings.
 
 High gas fees? Use sites like ethgasstation.info to find cheaper times.
-
-
-
----
-
-What Next?
+<br></br>
+## What Next?
 
 Use your ENS name everywhere in Web3 profiles.
 
@@ -231,34 +190,25 @@ Host a decentralized website or set up email forwarding.
 Participate in ENS governance.
 
 Keep your wallet secure — maybe get a hardware wallet for larger amounts.
+<br></br>
+## FAQs
 
-
-
----
-
-FAQs
-
-Can I sell my ENS domain?
+**Can I sell my ENS domain?**
 Yes! ENS domains are NFTs you can sell on marketplaces like OpenSea.
 
-What if I don’t renew?
+**What if I don’t renew?**
 It expires and becomes available for others.
 
-Can I use it beyond crypto?
+**Can I use it beyond crypto?**
 Absolutely! Point it to websites, social profiles, and more.
 
-Is my ENS domain mine forever?
+**Is my ENS domain mine forever?**
 As long as you keep your wallet and renew the domain, yes.
-
-
----
-
-Final Thoughts
-
+<br></br>
 Getting your first ENS domain is like staking your claim in the decentralized web. It might feel a bit technical at first, but millions have done it successfully by following steps like these.
 
 Take your time, double-check everything, and if you get stuck, the ENS community on Discord is super helpful.
 
-Welcome to Web3 — your new digital identity awaits!
+*Welcome to Web3, your new digital identity awaits!*
 
 
