@@ -155,11 +155,11 @@ Check your ENS name on sites like etherscan.io to track transactions.
 
 Share your new Web3 identity confidently!
 <br></br>
-**Watch Out For These Common Mistakes**
+## Watch Out For These Common Mistakes
 
 Don’t rush your domain choice, you’re paying for multiple years!
 
-Gas fees can be high—try to register when the network isn’t busy.
+Gas fees can be high, try to register when the network isn’t busy.
 
 Don’t close your browser during registration.
 
@@ -169,7 +169,7 @@ Keep your recovery phrase safe.
 
 Remember to renew your domain before it expires.
 <br></br>
-Troubleshooting Quick Fixes
+## Troubleshooting Quick Fixes
 
 Transaction failed? Try again with higher gas fees or wait for a less busy time.
 
@@ -189,7 +189,7 @@ Host a decentralized website or set up email forwarding.
 
 Participate in ENS governance.
 
-Keep your wallet secure — maybe get a hardware wallet for larger amounts.
+Keep your wallet secure, maybe get a hardware wallet for larger amounts.
 <br></br>
 ## FAQs
 
