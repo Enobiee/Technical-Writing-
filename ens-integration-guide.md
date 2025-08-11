@@ -11,7 +11,7 @@ Here’s a quick comparison:
 
 Email address: enobiee@gmail.com instead of a complicated IP address like 172.217.14.109
 
-ENS domain: enobiee.eth instead of a long wallet address like 0x1234abcd...
+ENS domain: enobiee.eth instead of a long wallet address like 0x742d35Cc6634C0532925a3b8D4020C6 
 <br></br>
 ## What You’ll Need to Get Started
 
