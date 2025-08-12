@@ -24,7 +24,7 @@ Some ETH (Ethereum) — usually around $20-$100 depending on fees and domain len
 A basic understanding that you’re dealing with real money, and transactions are permanent
 
 
-No Need For:
+**No Need For:**
 
 Technical expertise or crypto experience (I’ll guide you through!)
 
